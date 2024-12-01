@@ -1,9 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # 个人补充
-DOMAIN-SUFFIX,plex.tv,DIRECT
-DOMAIN-SUFFIX,piggo.me,DIRECT
-SRC-IP-CIDR,192.168.3.101/32,DIRECT
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,piggo.me
+SRC-IP-CIDR,192.168.3.101/32
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
