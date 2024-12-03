@@ -3,6 +3,8 @@
 # 个人补充
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,zjjcnt.com
+DOMAIN-SUFFIX,onelooker.cc
 SRC-IP-CIDR,192.168.3.101/32
 
 # 域名后缀匹配
